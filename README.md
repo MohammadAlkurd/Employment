@@ -2,3 +2,4 @@ A simple Restful API that controls a database that has Employees table and a Dep
 
 here is the URL to test it out
 http://employment.runasp.net/swagger/index.html
+make sure its http and not https
