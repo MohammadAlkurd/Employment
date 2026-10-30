@@ -1,6 +1,6 @@
 # Employment API
 
-A RESTful API built with **ASP.NET Core 8** and **Entity Framework Core** that manages employees and departments with a **one-to-many** relationship (one department has many employees).
+A RESTful API built with **ASP.NET Core 8** and **Entity Framework Core** that manages employees and departments with a **one-to-many** relationship (one department has many employees). Built as a bootcamp homework assignment.
 
 ## Stack
 
